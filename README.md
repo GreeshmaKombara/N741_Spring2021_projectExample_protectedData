@@ -1,6 +1,9 @@
 # N741_Spring2021_projectExample_protectedData
 N741 Spring2021 - project example code with a protected data folder
 
+#HELLO
+#AM I DOING THIS RIGHT?
+
 This Github repository provides:
 
 * a .gitignore file with an example list of files you may NOT want to backup on your Github cloud account - including a folder for your "Projected Data"
